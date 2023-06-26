@@ -1,3 +1,4 @@
+//Задачи по сайту https://flowersshop.spb.ru/
 // покрасить все кнопки "1 клик" в серый цвет фона.
 
 let menuOneClick = document.querySelectorAll('.oct-button.button-one-click');
